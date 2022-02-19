@@ -76,6 +76,13 @@ nav button {
 	width: 100%;
 	transition: box-shadow 100ms;
 	outline: none;
+
+
+	background-image: url(img/vs.png);
+
+	background-size: 28px;
+	background-repeat: no-repeat;
+	background-position: right;
 }
 .s-box  .s-input:hover {
 	border: 1px solid #fff;
